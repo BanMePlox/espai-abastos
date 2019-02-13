@@ -267,10 +267,10 @@ img.d3{
 div.marzo {
   align-content: center;
   margin-left: 39%;
-  width: 130%; 
+  /* width: 130%;  */
   margin-top: 5%;
-  height: 130%;
-  size: 130%
+  /* height: 130%;
+  size: 130% */
 }
   div.marzo table{
     border: rgb(255, 255, 255) 1px solid;
